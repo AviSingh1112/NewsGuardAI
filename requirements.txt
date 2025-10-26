@@ -1,0 +1,23 @@
+# === NewsGuardAI Core Dependencies ===
+streamlit>=1.50.0
+requests>=2.32.5
+beautifulsoup4>=4.14.2
+lxml>=5.4.0
+trafilatura>=2.0.0
+python-dotenv>=1.0.0
+groq>=0.33.0
+psycopg2-binary>=2.9.11
+reportlab>=4.4.4
+
+# === Web Scraping & Parsing ===
+newspaper3k>=0.2.8
+playwright>=1.47.0
+nltk>=3.9.1
+
+# === Data Handling & Utilities ===
+pandas>=2.2.2
+numpy>=1.26.4
+
+# === Optional Visualization (for analytics dashboard) ===
+matplotlib>=3.9.2
+plotly>=5.24.0
